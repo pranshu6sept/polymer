@@ -1,5 +1,3 @@
-'use client'
-
 import { useState, useEffect } from 'react'
 import { Menu, X, Phone, Mail, MapPin, ArrowRight, Check } from 'lucide-react'
 
